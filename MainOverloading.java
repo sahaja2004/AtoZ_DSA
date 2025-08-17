@@ -1,5 +1,3 @@
-package AtoZ_DSA;
-
 public class MainOverloading {
     public static void main(String args[]){
         if(args.length==0){
